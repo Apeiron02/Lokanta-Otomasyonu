@@ -1,0 +1,254 @@
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1\bin\Debug\Lokanta_Otomasyonu_1.exe.config
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1\bin\Debug\Lokanta_Otomasyonu_1.exe
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1\bin\Debug\Lokanta_Otomasyonu_1.pdb
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1\obj\Debug\Lokanta_Otomasyonu_1.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1\obj\Debug\Lokanta_Otomasyonu_1.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1\obj\Debug\Lokanta_Otomasyonu_1.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1\obj\Debug\Lokanta_Otomasyonu_1.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1\obj\Debug\Lokanta_Otomasyonu_1.exe
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1\obj\Debug\Lokanta_Otomasyonu_1.pdb
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1\obj\Debug\Lokanta_Otomasyonu_1.Giris.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1\obj\Debug\Lokanta_Otomasyonu_1.Masalar.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1\obj\Debug\Lokanta_Otomasyonu_1.Siparis.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1\obj\Debug\Lokanta_Otomasyonu_1.YeniKayit.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1\obj\Debug\Lokanta_Otomasyonu_1.Corbalar.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1\obj\Debug\Lokanta_Otomasyonu_1.Durum.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1\obj\Debug\Lokanta_Otomasyonu_1.Kebap.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1\obj\Debug\Lokanta_Otomasyonu_1.Pide.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1\obj\Debug\Lokanta_Otomasyonu_1.Tatlı.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1\obj\Debug\Lokanta_Otomasyonu_1.İcecek.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1\obj\Debug\Lokanta_Otomasyonu_1.Admin_Panel.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1\obj\Debug\Lokanta_Otomasyonu_1.CorbaDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1\obj\Debug\Lokanta_Otomasyonu_1.DurumDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1\obj\Debug\Lokanta_Otomasyonu_1.IcecekDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1\obj\Debug\Lokanta_Otomasyonu_1.KebapDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1\obj\Debug\Lokanta_Otomasyonu_1.PideDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1\obj\Debug\Lokanta_Otomasyonu_1.TatlıDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V2(Person Sınıfı Düzeltmesi)\bin\Debug\Lokanta_Otomasyonu_1.exe.config
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V2(Person Sınıfı Düzeltmesi)\bin\Debug\Lokanta_Otomasyonu_1.exe
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V2(Person Sınıfı Düzeltmesi)\bin\Debug\Lokanta_Otomasyonu_1.pdb
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V2(Person Sınıfı Düzeltmesi)\obj\Debug\Lokanta_Otomasyonu_1.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V2(Person Sınıfı Düzeltmesi)\obj\Debug\Lokanta_Otomasyonu_1.Admin_Panel.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V2(Person Sınıfı Düzeltmesi)\obj\Debug\Lokanta_Otomasyonu_1.CorbaDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V2(Person Sınıfı Düzeltmesi)\obj\Debug\Lokanta_Otomasyonu_1.Corbalar.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V2(Person Sınıfı Düzeltmesi)\obj\Debug\Lokanta_Otomasyonu_1.Durum.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V2(Person Sınıfı Düzeltmesi)\obj\Debug\Lokanta_Otomasyonu_1.DurumDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V2(Person Sınıfı Düzeltmesi)\obj\Debug\Lokanta_Otomasyonu_1.Giris.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V2(Person Sınıfı Düzeltmesi)\obj\Debug\Lokanta_Otomasyonu_1.IcecekDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V2(Person Sınıfı Düzeltmesi)\obj\Debug\Lokanta_Otomasyonu_1.Kebap.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V2(Person Sınıfı Düzeltmesi)\obj\Debug\Lokanta_Otomasyonu_1.KebapDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V2(Person Sınıfı Düzeltmesi)\obj\Debug\Lokanta_Otomasyonu_1.Masalar.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V2(Person Sınıfı Düzeltmesi)\obj\Debug\Lokanta_Otomasyonu_1.Pide.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V2(Person Sınıfı Düzeltmesi)\obj\Debug\Lokanta_Otomasyonu_1.PideDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V2(Person Sınıfı Düzeltmesi)\obj\Debug\Lokanta_Otomasyonu_1.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V2(Person Sınıfı Düzeltmesi)\obj\Debug\Lokanta_Otomasyonu_1.Siparis.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V2(Person Sınıfı Düzeltmesi)\obj\Debug\Lokanta_Otomasyonu_1.Tatlı.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V2(Person Sınıfı Düzeltmesi)\obj\Debug\Lokanta_Otomasyonu_1.TatlıDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V2(Person Sınıfı Düzeltmesi)\obj\Debug\Lokanta_Otomasyonu_1.YeniKayit.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V2(Person Sınıfı Düzeltmesi)\obj\Debug\Lokanta_Otomasyonu_1.İcecek.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V2(Person Sınıfı Düzeltmesi)\obj\Debug\Lokanta_Otomasyonu_1.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V2(Person Sınıfı Düzeltmesi)\obj\Debug\Lokanta_Otomasyonu_1.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V2(Person Sınıfı Düzeltmesi)\obj\Debug\Lokanta_Otomasyonu_1.exe
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V2(Person Sınıfı Düzeltmesi)\obj\Debug\Lokanta_Otomasyonu_1.pdb
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V4(SİPARİS SAYFASI DÜZENLEME)\bin\Debug\Lokanta_Otomasyonu_1.exe.config
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V4(SİPARİS SAYFASI DÜZENLEME)\bin\Debug\Lokanta_Otomasyonu_1.exe
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V4(SİPARİS SAYFASI DÜZENLEME)\bin\Debug\Lokanta_Otomasyonu_1.pdb
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V4(SİPARİS SAYFASI DÜZENLEME)\obj\Debug\Lokanta_Otomasyonu_1.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V4(SİPARİS SAYFASI DÜZENLEME)\obj\Debug\Lokanta_Otomasyonu_1.Admin_Panel.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V4(SİPARİS SAYFASI DÜZENLEME)\obj\Debug\Lokanta_Otomasyonu_1.CorbaDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V4(SİPARİS SAYFASI DÜZENLEME)\obj\Debug\Lokanta_Otomasyonu_1.Corbalar.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V4(SİPARİS SAYFASI DÜZENLEME)\obj\Debug\Lokanta_Otomasyonu_1.Durum.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V4(SİPARİS SAYFASI DÜZENLEME)\obj\Debug\Lokanta_Otomasyonu_1.DurumDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V4(SİPARİS SAYFASI DÜZENLEME)\obj\Debug\Lokanta_Otomasyonu_1.Giris.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V4(SİPARİS SAYFASI DÜZENLEME)\obj\Debug\Lokanta_Otomasyonu_1.IcecekDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V4(SİPARİS SAYFASI DÜZENLEME)\obj\Debug\Lokanta_Otomasyonu_1.Kebap.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V4(SİPARİS SAYFASI DÜZENLEME)\obj\Debug\Lokanta_Otomasyonu_1.KebapDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V4(SİPARİS SAYFASI DÜZENLEME)\obj\Debug\Lokanta_Otomasyonu_1.Masalar.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V4(SİPARİS SAYFASI DÜZENLEME)\obj\Debug\Lokanta_Otomasyonu_1.Pide.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V4(SİPARİS SAYFASI DÜZENLEME)\obj\Debug\Lokanta_Otomasyonu_1.PideDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V4(SİPARİS SAYFASI DÜZENLEME)\obj\Debug\Lokanta_Otomasyonu_1.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V4(SİPARİS SAYFASI DÜZENLEME)\obj\Debug\Lokanta_Otomasyonu_1.Siparis.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V4(SİPARİS SAYFASI DÜZENLEME)\obj\Debug\Lokanta_Otomasyonu_1.Tatlı.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V4(SİPARİS SAYFASI DÜZENLEME)\obj\Debug\Lokanta_Otomasyonu_1.TatlıDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V4(SİPARİS SAYFASI DÜZENLEME)\obj\Debug\Lokanta_Otomasyonu_1.YeniKayit.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V4(SİPARİS SAYFASI DÜZENLEME)\obj\Debug\Lokanta_Otomasyonu_1.İcecek.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V4(SİPARİS SAYFASI DÜZENLEME)\obj\Debug\Lokanta_Otomasyonu_1.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V4(SİPARİS SAYFASI DÜZENLEME)\obj\Debug\Lokanta_Otomasyonu_1.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V4(SİPARİS SAYFASI DÜZENLEME)\obj\Debug\Lokanta_Otomasyonu_1.exe
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V4(SİPARİS SAYFASI DÜZENLEME)\obj\Debug\Lokanta_Otomasyonu_1.pdb
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(ADMİN PANELLERİ DÜZENLEMESİ)\bin\Debug\Lokanta_Otomasyonu_1.exe.config
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(ADMİN PANELLERİ DÜZENLEMESİ)\bin\Debug\Lokanta_Otomasyonu_1.exe
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(ADMİN PANELLERİ DÜZENLEMESİ)\bin\Debug\Lokanta_Otomasyonu_1.pdb
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(ADMİN PANELLERİ DÜZENLEMESİ)\obj\Debug\Lokanta_Otomasyonu_1.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(ADMİN PANELLERİ DÜZENLEMESİ)\obj\Debug\Lokanta_Otomasyonu_1.Admin_Panel.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(ADMİN PANELLERİ DÜZENLEMESİ)\obj\Debug\Lokanta_Otomasyonu_1.CorbaDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(ADMİN PANELLERİ DÜZENLEMESİ)\obj\Debug\Lokanta_Otomasyonu_1.Corbalar.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(ADMİN PANELLERİ DÜZENLEMESİ)\obj\Debug\Lokanta_Otomasyonu_1.Durum.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(ADMİN PANELLERİ DÜZENLEMESİ)\obj\Debug\Lokanta_Otomasyonu_1.DurumDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(ADMİN PANELLERİ DÜZENLEMESİ)\obj\Debug\Lokanta_Otomasyonu_1.Giris.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(ADMİN PANELLERİ DÜZENLEMESİ)\obj\Debug\Lokanta_Otomasyonu_1.IcecekDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(ADMİN PANELLERİ DÜZENLEMESİ)\obj\Debug\Lokanta_Otomasyonu_1.Kebap.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(ADMİN PANELLERİ DÜZENLEMESİ)\obj\Debug\Lokanta_Otomasyonu_1.KebapDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(ADMİN PANELLERİ DÜZENLEMESİ)\obj\Debug\Lokanta_Otomasyonu_1.Masalar.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(ADMİN PANELLERİ DÜZENLEMESİ)\obj\Debug\Lokanta_Otomasyonu_1.Pide.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(ADMİN PANELLERİ DÜZENLEMESİ)\obj\Debug\Lokanta_Otomasyonu_1.PideDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(ADMİN PANELLERİ DÜZENLEMESİ)\obj\Debug\Lokanta_Otomasyonu_1.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(ADMİN PANELLERİ DÜZENLEMESİ)\obj\Debug\Lokanta_Otomasyonu_1.Siparis.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(ADMİN PANELLERİ DÜZENLEMESİ)\obj\Debug\Lokanta_Otomasyonu_1.Tatlı.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(ADMİN PANELLERİ DÜZENLEMESİ)\obj\Debug\Lokanta_Otomasyonu_1.TatlıDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(ADMİN PANELLERİ DÜZENLEMESİ)\obj\Debug\Lokanta_Otomasyonu_1.YeniKayit.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(ADMİN PANELLERİ DÜZENLEMESİ)\obj\Debug\Lokanta_Otomasyonu_1.İcecek.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(ADMİN PANELLERİ DÜZENLEMESİ)\obj\Debug\Lokanta_Otomasyonu_1.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(ADMİN PANELLERİ DÜZENLEMESİ)\obj\Debug\Lokanta_Otomasyonu_1.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(ADMİN PANELLERİ DÜZENLEMESİ)\obj\Debug\Lokanta_Otomasyonu_1.exe
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(ADMİN PANELLERİ DÜZENLEMESİ)\obj\Debug\Lokanta_Otomasyonu_1.pdb
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(CORBALAR HAZIR DİĞERLERİ HAZIRLANCAK)\bin\Debug\Lokanta_Otomasyonu_1.exe.config
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(CORBALAR HAZIR DİĞERLERİ HAZIRLANCAK)\bin\Debug\Lokanta_Otomasyonu_1.exe
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(CORBALAR HAZIR DİĞERLERİ HAZIRLANCAK)\bin\Debug\Lokanta_Otomasyonu_1.pdb
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(CORBALAR HAZIR DİĞERLERİ HAZIRLANCAK)\obj\Debug\Lokanta_Otomasyonu_1.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(CORBALAR HAZIR DİĞERLERİ HAZIRLANCAK)\obj\Debug\Lokanta_Otomasyonu_1.Admin_Panel.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(CORBALAR HAZIR DİĞERLERİ HAZIRLANCAK)\obj\Debug\Lokanta_Otomasyonu_1.CorbaDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(CORBALAR HAZIR DİĞERLERİ HAZIRLANCAK)\obj\Debug\Lokanta_Otomasyonu_1.Corbalar.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(CORBALAR HAZIR DİĞERLERİ HAZIRLANCAK)\obj\Debug\Lokanta_Otomasyonu_1.Durum.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(CORBALAR HAZIR DİĞERLERİ HAZIRLANCAK)\obj\Debug\Lokanta_Otomasyonu_1.DurumDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(CORBALAR HAZIR DİĞERLERİ HAZIRLANCAK)\obj\Debug\Lokanta_Otomasyonu_1.Giris.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(CORBALAR HAZIR DİĞERLERİ HAZIRLANCAK)\obj\Debug\Lokanta_Otomasyonu_1.IcecekDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(CORBALAR HAZIR DİĞERLERİ HAZIRLANCAK)\obj\Debug\Lokanta_Otomasyonu_1.Kebap.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(CORBALAR HAZIR DİĞERLERİ HAZIRLANCAK)\obj\Debug\Lokanta_Otomasyonu_1.KebapDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(CORBALAR HAZIR DİĞERLERİ HAZIRLANCAK)\obj\Debug\Lokanta_Otomasyonu_1.Masalar.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(CORBALAR HAZIR DİĞERLERİ HAZIRLANCAK)\obj\Debug\Lokanta_Otomasyonu_1.Pide.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(CORBALAR HAZIR DİĞERLERİ HAZIRLANCAK)\obj\Debug\Lokanta_Otomasyonu_1.PideDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(CORBALAR HAZIR DİĞERLERİ HAZIRLANCAK)\obj\Debug\Lokanta_Otomasyonu_1.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(CORBALAR HAZIR DİĞERLERİ HAZIRLANCAK)\obj\Debug\Lokanta_Otomasyonu_1.Siparis.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(CORBALAR HAZIR DİĞERLERİ HAZIRLANCAK)\obj\Debug\Lokanta_Otomasyonu_1.Tatlı.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(CORBALAR HAZIR DİĞERLERİ HAZIRLANCAK)\obj\Debug\Lokanta_Otomasyonu_1.TatlıDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(CORBALAR HAZIR DİĞERLERİ HAZIRLANCAK)\obj\Debug\Lokanta_Otomasyonu_1.YeniKayit.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(CORBALAR HAZIR DİĞERLERİ HAZIRLANCAK)\obj\Debug\Lokanta_Otomasyonu_1.İcecek.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(CORBALAR HAZIR DİĞERLERİ HAZIRLANCAK)\obj\Debug\Lokanta_Otomasyonu_1.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(CORBALAR HAZIR DİĞERLERİ HAZIRLANCAK)\obj\Debug\Lokanta_Otomasyonu_1.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(CORBALAR HAZIR DİĞERLERİ HAZIRLANCAK)\obj\Debug\Lokanta_Otomasyonu_1.exe
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V5(CORBALAR HAZIR DİĞERLERİ HAZIRLANCAK)\obj\Debug\Lokanta_Otomasyonu_1.pdb
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V6(SİPARİSLER SQL E KAYDEDİLECEK)\bin\Debug\Lokanta_Otomasyonu_1.exe.config
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V6(SİPARİSLER SQL E KAYDEDİLECEK)\bin\Debug\Lokanta_Otomasyonu_1.exe
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V6(SİPARİSLER SQL E KAYDEDİLECEK)\bin\Debug\Lokanta_Otomasyonu_1.pdb
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V6(SİPARİSLER SQL E KAYDEDİLECEK)\obj\Debug\Lokanta_Otomasyonu_1.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V6(SİPARİSLER SQL E KAYDEDİLECEK)\obj\Debug\Lokanta_Otomasyonu_1.Admin_Panel.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V6(SİPARİSLER SQL E KAYDEDİLECEK)\obj\Debug\Lokanta_Otomasyonu_1.CorbaDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V6(SİPARİSLER SQL E KAYDEDİLECEK)\obj\Debug\Lokanta_Otomasyonu_1.Corbalar.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V6(SİPARİSLER SQL E KAYDEDİLECEK)\obj\Debug\Lokanta_Otomasyonu_1.Durum.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V6(SİPARİSLER SQL E KAYDEDİLECEK)\obj\Debug\Lokanta_Otomasyonu_1.DurumDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V6(SİPARİSLER SQL E KAYDEDİLECEK)\obj\Debug\Lokanta_Otomasyonu_1.Giris.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V6(SİPARİSLER SQL E KAYDEDİLECEK)\obj\Debug\Lokanta_Otomasyonu_1.IcecekDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V6(SİPARİSLER SQL E KAYDEDİLECEK)\obj\Debug\Lokanta_Otomasyonu_1.Kebap.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V6(SİPARİSLER SQL E KAYDEDİLECEK)\obj\Debug\Lokanta_Otomasyonu_1.KebapDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V6(SİPARİSLER SQL E KAYDEDİLECEK)\obj\Debug\Lokanta_Otomasyonu_1.Masalar.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V6(SİPARİSLER SQL E KAYDEDİLECEK)\obj\Debug\Lokanta_Otomasyonu_1.Pide.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V6(SİPARİSLER SQL E KAYDEDİLECEK)\obj\Debug\Lokanta_Otomasyonu_1.PideDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V6(SİPARİSLER SQL E KAYDEDİLECEK)\obj\Debug\Lokanta_Otomasyonu_1.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V6(SİPARİSLER SQL E KAYDEDİLECEK)\obj\Debug\Lokanta_Otomasyonu_1.Siparis.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V6(SİPARİSLER SQL E KAYDEDİLECEK)\obj\Debug\Lokanta_Otomasyonu_1.Tatlı.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V6(SİPARİSLER SQL E KAYDEDİLECEK)\obj\Debug\Lokanta_Otomasyonu_1.TatlıDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V6(SİPARİSLER SQL E KAYDEDİLECEK)\obj\Debug\Lokanta_Otomasyonu_1.YeniKayit.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V6(SİPARİSLER SQL E KAYDEDİLECEK)\obj\Debug\Lokanta_Otomasyonu_1.İcecek.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V6(SİPARİSLER SQL E KAYDEDİLECEK)\obj\Debug\Lokanta_Otomasyonu_1.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V6(SİPARİSLER SQL E KAYDEDİLECEK)\obj\Debug\Lokanta_Otomasyonu_1.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V6(SİPARİSLER SQL E KAYDEDİLECEK)\obj\Debug\Lokanta_Otomasyonu_1.exe
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V6(SİPARİSLER SQL E KAYDEDİLECEK)\obj\Debug\Lokanta_Otomasyonu_1.pdb
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\obj\Debug\Lokanta_Otomasyonu_1.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\obj\Debug\Lokanta_Otomasyonu_1.Admin_Panel.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\obj\Debug\Lokanta_Otomasyonu_1.CorbaDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\obj\Debug\Lokanta_Otomasyonu_1.Corbalar.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\obj\Debug\Lokanta_Otomasyonu_1.Durum.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\obj\Debug\Lokanta_Otomasyonu_1.DurumDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\obj\Debug\Lokanta_Otomasyonu_1.Giris.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\obj\Debug\Lokanta_Otomasyonu_1.IcecekDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\obj\Debug\Lokanta_Otomasyonu_1.KazacTabloGünlük.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\obj\Debug\Lokanta_Otomasyonu_1.Kebap.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\obj\Debug\Lokanta_Otomasyonu_1.KebapDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\obj\Debug\Lokanta_Otomasyonu_1.Masalar.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\obj\Debug\Lokanta_Otomasyonu_1.Pide.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\obj\Debug\Lokanta_Otomasyonu_1.PideDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\obj\Debug\Lokanta_Otomasyonu_1.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\obj\Debug\Lokanta_Otomasyonu_1.Siparis.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\obj\Debug\Lokanta_Otomasyonu_1.Tatlı.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\obj\Debug\Lokanta_Otomasyonu_1.TatlıDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\obj\Debug\Lokanta_Otomasyonu_1.YeniKayit.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\obj\Debug\Lokanta_Otomasyonu_1.İcecek.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\obj\Debug\Lokanta_Otomasyonu_1.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\obj\Debug\Lokanta_Otomasyonu_1.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\obj\Debug\Lokanta_Otomasyonu_1.exe
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\obj\Debug\Lokanta_Otomasyonu_1.pdb
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\bin\Debug\Lokanta_Otomasyonu_1.exe.config
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\bin\Debug\Lokanta_Otomasyonu_1.exe
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\bin\Debug\Lokanta_Otomasyonu_1.pdb
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\obj\Debug\Lokanta_Otomasyonu_1.TumSiparisler.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V7(SATIŞ TABLOLARI YAPILACAK)\obj\Debug\Lokanta_Otomasyonu_1.TumPersonel.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V8(DÜZENLEMELER)\bin\Debug\Lokanta_Otomasyonu_1.exe.config
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V8(DÜZENLEMELER)\bin\Debug\Lokanta_Otomasyonu_1.exe
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V8(DÜZENLEMELER)\bin\Debug\Lokanta_Otomasyonu_1.pdb
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V8(DÜZENLEMELER)\obj\Debug\Lokanta_Otomasyonu_1.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V8(DÜZENLEMELER)\obj\Debug\Lokanta_Otomasyonu_1.Admin_Panel.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V8(DÜZENLEMELER)\obj\Debug\Lokanta_Otomasyonu_1.CorbaDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V8(DÜZENLEMELER)\obj\Debug\Lokanta_Otomasyonu_1.DurumDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V8(DÜZENLEMELER)\obj\Debug\Lokanta_Otomasyonu_1.Giris.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V8(DÜZENLEMELER)\obj\Debug\Lokanta_Otomasyonu_1.IcecekDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V8(DÜZENLEMELER)\obj\Debug\Lokanta_Otomasyonu_1.KazacTabloGünlük.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V8(DÜZENLEMELER)\obj\Debug\Lokanta_Otomasyonu_1.KebapDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V8(DÜZENLEMELER)\obj\Debug\Lokanta_Otomasyonu_1.Masalar.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V8(DÜZENLEMELER)\obj\Debug\Lokanta_Otomasyonu_1.PideDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V8(DÜZENLEMELER)\obj\Debug\Lokanta_Otomasyonu_1.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V8(DÜZENLEMELER)\obj\Debug\Lokanta_Otomasyonu_1.Siparis.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V8(DÜZENLEMELER)\obj\Debug\Lokanta_Otomasyonu_1.TatlıDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V8(DÜZENLEMELER)\obj\Debug\Lokanta_Otomasyonu_1.TumPersonel.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V8(DÜZENLEMELER)\obj\Debug\Lokanta_Otomasyonu_1.TumSiparisler.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V8(DÜZENLEMELER)\obj\Debug\Lokanta_Otomasyonu_1.YeniKayit.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V8(DÜZENLEMELER)\obj\Debug\Lokanta_Otomasyonu_1.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V8(DÜZENLEMELER)\obj\Debug\Lokanta_Otomasyonu_1.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V8(DÜZENLEMELER)\obj\Debug\Lokanta_Otomasyonu_1.exe
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V8(DÜZENLEMELER)\obj\Debug\Lokanta_Otomasyonu_1.pdb
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V9(BİTTİ)\bin\Debug\Lokanta_Otomasyonu_1.exe.config
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V9(BİTTİ)\bin\Debug\Lokanta_Otomasyonu_1.exe
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V9(BİTTİ)\bin\Debug\Lokanta_Otomasyonu_1.pdb
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V9(BİTTİ)\obj\Debug\Lokanta_Otomasyonu_1.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V9(BİTTİ)\obj\Debug\Lokanta_Otomasyonu_1.Admin_Panel.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V9(BİTTİ)\obj\Debug\Lokanta_Otomasyonu_1.CorbaDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V9(BİTTİ)\obj\Debug\Lokanta_Otomasyonu_1.DurumDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V9(BİTTİ)\obj\Debug\Lokanta_Otomasyonu_1.Giris.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V9(BİTTİ)\obj\Debug\Lokanta_Otomasyonu_1.IcecekDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V9(BİTTİ)\obj\Debug\Lokanta_Otomasyonu_1.KazacTabloGünlük.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V9(BİTTİ)\obj\Debug\Lokanta_Otomasyonu_1.KebapDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V9(BİTTİ)\obj\Debug\Lokanta_Otomasyonu_1.Masalar.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V9(BİTTİ)\obj\Debug\Lokanta_Otomasyonu_1.PideDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V9(BİTTİ)\obj\Debug\Lokanta_Otomasyonu_1.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V9(BİTTİ)\obj\Debug\Lokanta_Otomasyonu_1.Siparis.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V9(BİTTİ)\obj\Debug\Lokanta_Otomasyonu_1.TatlıDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V9(BİTTİ)\obj\Debug\Lokanta_Otomasyonu_1.TumPersonel.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V9(BİTTİ)\obj\Debug\Lokanta_Otomasyonu_1.TumSiparisler.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V9(BİTTİ)\obj\Debug\Lokanta_Otomasyonu_1.YeniKayit.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V9(BİTTİ)\obj\Debug\Lokanta_Otomasyonu_1.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V9(BİTTİ)\obj\Debug\Lokanta_Otomasyonu_1.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V9(BİTTİ)\obj\Debug\Lokanta_Otomasyonu_1.exe
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 - V9(BİTTİ)\obj\Debug\Lokanta_Otomasyonu_1.pdb
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 -Setup\bin\Debug\Lokanta_Otomasyonu_1.exe.config
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 -Setup\bin\Debug\Lokanta_Otomasyonu_1.exe
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 -Setup\bin\Debug\Lokanta_Otomasyonu_1.pdb
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 -Setup\obj\Debug\Lokanta_Otomasyonu_1.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 -Setup\obj\Debug\Lokanta_Otomasyonu_1.Admin_Panel.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 -Setup\obj\Debug\Lokanta_Otomasyonu_1.CorbaDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 -Setup\obj\Debug\Lokanta_Otomasyonu_1.DurumDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 -Setup\obj\Debug\Lokanta_Otomasyonu_1.Giris.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 -Setup\obj\Debug\Lokanta_Otomasyonu_1.IcecekDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 -Setup\obj\Debug\Lokanta_Otomasyonu_1.KazacTabloGünlük.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 -Setup\obj\Debug\Lokanta_Otomasyonu_1.KebapDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 -Setup\obj\Debug\Lokanta_Otomasyonu_1.Masalar.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 -Setup\obj\Debug\Lokanta_Otomasyonu_1.PideDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 -Setup\obj\Debug\Lokanta_Otomasyonu_1.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 -Setup\obj\Debug\Lokanta_Otomasyonu_1.Siparis.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 -Setup\obj\Debug\Lokanta_Otomasyonu_1.TatlıDuzenle.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 -Setup\obj\Debug\Lokanta_Otomasyonu_1.TumPersonel.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 -Setup\obj\Debug\Lokanta_Otomasyonu_1.TumSiparisler.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 -Setup\obj\Debug\Lokanta_Otomasyonu_1.YeniKayit.resources
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 -Setup\obj\Debug\Lokanta_Otomasyonu_1.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 -Setup\obj\Debug\Lokanta_Otomasyonu_1.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 -Setup\obj\Debug\Lokanta_Otomasyonu_1.exe
+C:\Users\Yusuf\Desktop\C#\Lokanta_Otomasyonu_1 -Setup\obj\Debug\Lokanta_Otomasyonu_1.pdb
